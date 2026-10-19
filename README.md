@@ -1,16 +1,25 @@
-# ssangyongsports/oauth-logto (Archive)
+# ssangyongsportsorg-flarum-ext-oauth-logto (Archive)
 
-> **Read-only archive of released versions of ssangyongsports/oauth-logto.** Not for installation: use [Packagist](https://packagist.org/packages/ssangyongsports/oauth-logto) or the [upstream repository](https://github.com/ssangyongsportsorg/flarum-ext-oauth-logto).
+> **Read-only archive of released versions for ssangyongsports/oauth-logto, ssangyongsports/oauth-slack.** Not for installation: use Packagist or the [upstream repository](https://github.com/ssangyongsportsorg/flarum-ext-oauth-logto).
 
-**1** versions archived · Latest: [`1`](https://github.com/flarchive/ssangyongsports-oauth-logto/tree/archive/v1) · License: `MIT` · Flarum: `^1.3.1`
+**1** versions archived · Latest: [`1`](https://github.com/flarchive/ssangyongsportsorg-flarum-ext-oauth-logto/tree/archive/v1) · License: `MIT` · Flarum: `^1.3.1`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`ssangyongsports/oauth-logto`](https://packagist.org/packages/ssangyongsports/oauth-logto)
+- [`ssangyongsports/oauth-slack`](https://packagist.org/packages/ssangyongsports/oauth-slack)
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1` | 2024-07-26 | `^1.3.1` | [Browse](https://github.com/flarchive/ssangyongsports-oauth-logto/tree/archive/v1) |
+| `1` | 2024-07-26 | `^1.3.1` | [Browse](https://github.com/flarchive/ssangyongsportsorg-flarum-ext-oauth-logto/tree/archive/v1) |
 
-Catalog entry: [packages/ssangyongsports-oauth-logto.json](https://github.com/flarchive/archive-index/blob/main/packages/ssangyongsports-oauth-logto.json)
+## Catalog entries
+
+- [`ssangyongsports/oauth-logto`](https://github.com/flarchive/archive-index/blob/main/packages/ssangyongsports-oauth-logto.json)
+- [`ssangyongsports/oauth-slack`](https://github.com/flarchive/archive-index/blob/main/packages/ssangyongsports-oauth-slack.json)
 
 ## About this archive
 
